@@ -23,8 +23,11 @@ Data Modeling (Creation of ER Diagrams), Data Manipulation, Data Summarization, 
 •	Subsequently, a database was established in an MS SQL server with the necessary schema, and the data was successfully loaded into it.
 
 •	Performed the below analysis to understand the selling patterns, trends, seasonality of sales, performance of stores at different locations, and prioritizing customers.
+
 o	Performance of sales over gender.
+
 o	Sales in different store locations and states over time
+
 o	Behavior of customers purchasing pattern over month and year
 
 •	Finally generated insights in terms of most selling products, most performing stores, maximum rated categories, penetration, trends, seasonality, etc.
